@@ -7,4 +7,5 @@ Contact Us: contact_us.html
 
 Used Mobirise software for animation, navigation bar and carousel.
 
+assets folder does not contain folder images. Download it from my google drive.
 
