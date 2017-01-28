@@ -93,7 +93,7 @@ body {
 }
 
 #t1 {
-    background: url(../Images/5.jpg) no-repeat center center;
+    background: url(../images/new_cover/rampage.jpg) no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -101,7 +101,7 @@ body {
 }
 
 #t2 {
-    background: url(../Images/2.jpg) no-repeat center center;
+    background: url(../images/new_cover/Naach.jpg) no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -109,7 +109,7 @@ body {
 }
 
 #t3 {
-    background: url(../Images/1.jpeg) no-repeat center center;
+    background: url(../images/new_cover/Footloose.jpg) no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -117,7 +117,7 @@ body {
 }
 
 #t4 {
-    background: url(../Images/6.jpg) no-repeat center center;
+    background: url(../images/new_cover/Rhapsody.jpg) no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -125,7 +125,7 @@ body {
 }
 
 #t5 {
-    background: url(../Images/bike.jpg) no-repeat center center;
+    background: url(../images/new_cover/hiphopstreet.jpg) no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -133,7 +133,7 @@ body {
 }
 
 #t6 {
-    background: url(../Images/2.jpg) no-repeat center center;
+    background: url(../images/new_cover/codemutant.jpg) no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -141,7 +141,7 @@ body {
 }
 
 #t7 {
-    background: url(../Images/5.jpg) no-repeat center center;
+    background: url(../images/new_cover/Surge.jpg) no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -270,6 +270,10 @@ iframe {
 .right {
     padding-right: 0px;
     text-align: right;
+}
+
+.event:hover{
+    text-decoration: none;
 }
 
 @media only screen and (max-width: 768px) {
